@@ -12,4 +12,4 @@ This is made to track your own DISCORD profile, not for anything malicious. Plea
 We send the data to a websocket, listen to them, you can use `rjweb-server` to do that easily if you want.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Anthony01M/YourDiscordProfileTracker/blob/master/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Anthony01M/YourDiscordProfileTracker/blob/master/LICENSE) file for details.
