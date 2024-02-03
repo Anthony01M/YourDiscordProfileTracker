@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && cd lib && node index && cd .."
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "rjweb-server": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.12",
+    "typescript": "^5.0.4"
+  }
+}
